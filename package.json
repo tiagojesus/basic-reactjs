@@ -33,6 +33,12 @@
   },
   "scripts": {
     "start": "webpack-dev-server --open --mode development",
+    "firebase": "firebase serve",
+    "dev": "webpack --mode development",
     "build": "webpack --mode production"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.7.2",
+    "file-loader": "^3.0.1"
   }
 }

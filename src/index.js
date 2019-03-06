@@ -1,15 +1,11 @@
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
 
-import './main.scss'
+import './main.scss';
 
-function MyComponent(){
-    return (
-        <div>MyComponent Opa .doido</div>
-    );
-}
+import InicialPage from  './js/components/container/InicialPage';
 
 ReactDOM.render(
-    <MyComponent></MyComponent>,
+    <InicialPage></InicialPage>,
     document.getElementById('root')
   );

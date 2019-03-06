@@ -17,7 +17,7 @@ Babel:
 
 JS/JSX & CSS Loaders:
 
-babel-loader style-loader css-loader node-sass sass-loader postcss-loader 
+babel-loader style-loader css-loader node-sass sass-loader postcss-loader  file-loader 
 
 
 PLUGINS:
