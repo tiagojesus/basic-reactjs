@@ -14,7 +14,7 @@ class InicialPage  extends React.Component {
                     eu acretido que sou uma pessoa muito curiosa, que atua na área de tecnologia desde 2003.
                 </p>
 
-                <p>Por isto, gosto de participar das comunidades/encontros de desenvolvedores como o
+                <p>Por isso, gosto de participar das comunidades/encontros de desenvolvedores como o
                     GDG (Google Developer Group) e outros.</p>
                 <p>
                     Atualmente estou atuando mais fortemente com Java(JEE, spring) e javascript(React).
@@ -22,7 +22,7 @@ class InicialPage  extends React.Component {
                 <p>
                     Para aumentar meu conhecimento e <b> não ficar parado no tempo</b>. Estou estudando:
                     <ul>
-                        <li> Contabilidade Geral e Bancaria. </li>
+                        <li> Contabilidade Geral e Bancária. </li>
                         <li> Linguagem de programação: Kotlin e Dart</li>
                         <li> Blockchain: Hyperledger Fabric, Corda</li>
                         <li> Para passar conhecimento: Desenho e Adobe Character Animator.
